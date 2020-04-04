@@ -1,1 +1,1 @@
-# BD_BigTable
+# BD_RiakKV
